@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1727257609 source:c:\users\ycode\desktop\nouveau dossier\new\main.c
+	<stdio.h>
+	<stdlib.h>
+
